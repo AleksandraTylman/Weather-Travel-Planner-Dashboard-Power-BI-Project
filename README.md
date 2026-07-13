@@ -58,4 +58,4 @@ These filters allow users to quickly narrow down destinations according to their
 
 The dashboard provides a practical decision-support tool for travellers planning holidays or business trips. Instead of browsing weather forecasts city by city, users can interactively explore destinations from around the world and identify locations that meet their preferred weather criteria.
 
-The project demonstrates practical Business Intelligence skills, including data preparation, DAX development, interactive reporting, dashboard design, and business-oriented data visualisation using Power BI.
+The project demonstrates practical Business Intelligence skills, including data preparation, DAX development, interactive reporting and business-oriented data visualisation using Power BI.
